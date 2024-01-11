@@ -1,4 +1,4 @@
-05/01/2024
+12/01/2024
 US Bikeshare Data in python
 Description
 In this project, I developed a script in Python that take into consideration the data from a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
